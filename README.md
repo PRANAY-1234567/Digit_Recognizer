@@ -1,4 +1,5 @@
 🎨🧠 Digit Recognizer using Deep Learning and Tkinter
+
 This project is a GUI-based digit recognition app that allows users to draw digits on a canvas and get instant predictions using a Convolutional Neural Network (CNN) trained on the MNIST dataset.
 
 🔧 Tech Stack:
